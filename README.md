@@ -38,9 +38,23 @@ Udemy:
         - preorder  (root, left, right)
         - inorder   (left, root, right)
         - postorder (left, right, root)
+---
+
+### November 4, 2021
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+| #26    | Easy       | two pointer method, if find a new integer swap the current pointer with the first pointer |
+
+Coursera: N/A
+
+Udemy:
+- Trees module
     - Binary Heaps/ Priority Queues:
         - Priority queue (a queue with a logical order of priority)
         - Binary Heap (min heap, max heap)
-    - Problems:
-        1. 
+    - Binary Search Tree:
+        - left subtree(lesser values)
+        - right subtree (greater values)
 ---
