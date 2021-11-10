@@ -74,3 +74,37 @@ Coursera: N/A
 Udemy: N/A
 
 ---
+
+### November 8, 2021
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+
+Coursera: N/A
+
+Udemy:
+- Array Problems:
+    - array_pair_sum
+    - find_missing_element
+    - largest_continuous_sum
+
+---
+
+### November 9, 2021
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+
+Coursera: N/A
+
+Udemy:
+- Array Problems:
+    - sentence_reversal
+    - string_compression
+    - unique_characters_in_a_string
+
+---
