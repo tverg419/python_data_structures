@@ -108,3 +108,19 @@ Udemy:
     - unique_characters_in_a_string
 
 ---
+
+### November 14, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+Coursera: N/A
+
+Udemy:
+- Review Graph Algorithms
+    - Adjacency Matrix v. Adjacency List
+    - Breadth First Search
+    - Depth First Search
+---
