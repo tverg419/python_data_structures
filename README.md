@@ -124,3 +124,19 @@ Udemy:
     - Breadth First Search
     - Depth First Search
 ---
+
+### November 17, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+- Review #20: Valid Parentheses
+
+Coursera: N/A
+
+Udemy:
+- compress_string.py
+
+---
