@@ -140,3 +140,23 @@ Udemy:
 - compress_string.py
 
 ---
+
+### November 18, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+| #322   | Medium     | Initially tried the greedy algo but does not work. Dynamic programming question |
+| #518   | Medium     |  |
+
+Coursera: N/A
+
+Udemy:
+- Strings Problems:
+    - sentence_reversal.py
+    - unique_characters.py
+- Backtracking Algorith
+- Recurrence Relation
+
+---
