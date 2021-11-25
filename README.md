@@ -160,3 +160,20 @@ Udemy:
 - Recurrence Relation
 
 ---
+
+### November 25, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+| #225   | Easy       |       |
+| #232   | Easy       |       |
+
+Coursera: N/A
+
+Udemy:
+- Stacks module:
+    - Last-In First-Out (LIFO) principle
+
+---
