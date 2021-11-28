@@ -177,3 +177,20 @@ Udemy:
     - Last-In First-Out (LIFO) principle
 
 ---
+
+### November 27, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+Coursera: N/A
+
+Udemy:
+- Stack Implementation
+- Queue Module
+    - First-In First-Out principle
+- Queue Implementation
+
+---
