@@ -27,6 +27,5 @@ def find_mismatch(text):
 def main():
     print(find_mismatch(input()))
 
-
 if __name__ == "__main__":
     main()

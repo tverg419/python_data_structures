@@ -194,3 +194,17 @@ Udemy:
 - Queue Implementation
 
 ---
+### November 28, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+Coursera: N/A
+
+Udemy:
+- Deque Module
+- Deque Implementation
+
+---
