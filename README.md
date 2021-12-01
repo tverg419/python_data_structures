@@ -208,3 +208,31 @@ Udemy:
 - Deque Implementation
 
 ---
+### November 29, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+Coursera:
+- Priority Queue
+
+Udemy:
+- Stacks Problems:
+    - stacks_to_queue.py
+
+---
+### November 30, 2021
+
+LeetCode:
+
+| Number | Difficulty | Notes |
+|--------|------------|-------|
+
+Coursera:
+- tree_height.py
+
+Udemy: N/A
+
+---
